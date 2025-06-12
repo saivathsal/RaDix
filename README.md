@@ -21,7 +21,9 @@ RaDix is an AI-powered system for chest X-ray analysis, providing automated dise
 
 ## Getting Started
 1. **Clone the repo:**
+```
 git clone https://github.com/saivathsal/RaDix.git
+```
 2. **Install dependencies** for frontend and backend.
 3. **Set up Firebase** for authentication and storage.
 4. **Deploy or run locally** as per instructions.
