@@ -37,3 +37,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 ## License
 MIT License.
+
+## Live Demo
+
+[View the deployed app here](https://ra-dix-ready.onrender.com/)
